@@ -1,0 +1,26 @@
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 10vh;
+    gap: 30px;
+    flex-direction: row;
+}
+
+.surname-container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 10vh;
+    gap: 30px;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+.icon-container, .surname-container {
+    background-color: rgb(34, 34, 34);
+}
+
+h1 {
+    margin: 5; 
+}
